@@ -7,4 +7,10 @@ Ini adalah fitur pertama yang sedang dikembangkan di branch fitur-1.
 ## Versi 1.0
 Fitur dasar sudah lengkap.
 
+<<<<<<< HEAD
 Ini baris dari master
+=======Ini baris dari master
+Ini baris dari fitur A
+
+Ini baris dari fitur A
+>>>>>>> 046a237 (Edit README.md dari fitur-a)
